@@ -59,23 +59,23 @@
     <name>ImageItemEditor</name>
     <message>
         <source>Image Item Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>Editor de imagen de objeto</translation>
     </message>
     <message>
         <source>Image</source>
-        <translation type="unfinished">Imagen</translation>
+        <translation>Imagen</translation>
     </message>
     <message>
         <source>...</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Resource path</source>
-        <translation type="unfinished"></translation>
+        <translation>Ruta de recurso</translation>
     </message>
     <message>
         <source>Select image file</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecione un archivo de imagen</translation>
     </message>
 </context>
 <context>
@@ -540,7 +540,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Keep top space</source>
-        <translation type="unfinished"></translation>
+        <translation>Conservar. esp. superior</translation>
     </message>
 </context>
 <context>
@@ -583,7 +583,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Lock item geometry</source>
-        <translation type="unfinished"></translation>
+        <translation>Asegurar geomatría de objeto</translation>
     </message>
 </context>
 <context>
@@ -1145,19 +1145,19 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Millimeters</source>
-        <translation type="unfinished"></translation>
+        <translation>Milimetros</translation>
     </message>
     <message>
         <source>Inches</source>
-        <translation type="unfinished"></translation>
+        <translation>Pulgadas</translation>
     </message>
     <message>
         <source>Scale</source>
-        <translation type="unfinished"></translation>
+        <translation>Estirar</translation>
     </message>
     <message>
         <source>Split</source>
-        <translation type="unfinished"></translation>
+        <translation>Dividir</translation>
     </message>
 </context>
 <context>
@@ -1282,11 +1282,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Edit</source>
-        <translation type="unfinished">Editar</translation>
+        <translation>Editar</translation>
     </message>
     <message>
         <source>Images (*.gif *.icns *.ico *.jpeg *.tga *.tiff *.wbmp *.webp *.png *.jpg *.bmp);;All(*.*)</source>
-        <translation type="unfinished"></translation>
+        <translation>Imágenes (*.gif *.icns *.ico *.jpeg *.tga *.tiff *.wbmp *.webp *.png *.jpg *.bmp) ;; Todas (*.*)</translation>
     </message>
 </context>
 <context>
@@ -1407,7 +1407,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Translate properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Traducir propiedades</translation>
     </message>
 </context>
 <context>
@@ -1609,23 +1609,23 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>MainToolBar</source>
-        <translation type="unfinished"></translation>
+        <translation>BarraHerramientasPrincipal</translation>
     </message>
     <message>
         <source>EditModeTools</source>
-        <translation type="unfinished"></translation>
+        <translation>HerramientasModoEdición</translation>
     </message>
     <message>
         <source>Printing</source>
-        <translation type="unfinished"></translation>
+        <translation>Imprimiendo</translation>
     </message>
     <message>
         <source>Attention</source>
-        <translation type="unfinished">Atención</translation>
+        <translation>Atención</translation>
     </message>
     <message>
         <source>The printing is in process</source>
-        <translation type="unfinished"></translation>
+        <translation>La impresión esta en proceso</translation>
     </message>
 </context>
 <context>
@@ -2135,26 +2135,34 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>units</source>
-        <translation type="unfinished"></translation>
+        <translation>unidades</translation>
     </message>
     <message>
         <source>geometryLocked</source>
-        <translation type="unfinished"></translation>
+        <translation>geometriaAsegurada</translation>
     </message>
     <message>
         <source>printBehavior</source>
-        <translation type="unfinished"></translation>
+        <translation>comportamientoImpresión</translation>
     </message>
     <message>
         <source>shiftItems</source>
-        <translation type="unfinished"></translation>
+        <translation>InvertirObjetos</translation>
     </message>
     <message>
         <source>showLegend</source>
-        <translation type="unfinished"></translation>
+        <translation>mostrarLeyenda</translation>
     </message>
     <message>
         <source>removeGap</source>
+        <translation>eliminarBrecha</translation>
+    </message>
+    <message>
+        <source>dropPrinterMargins</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>notPrintIfEmpty</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2173,11 +2181,11 @@ p, li { white-space: pre-wrap; }
     <name>LimeReport::RectUnitPropItem</name>
     <message>
         <source>width</source>
-        <translation type="unfinished">ancho</translation>
+        <translation>ancho</translation>
     </message>
     <message>
         <source>height</source>
-        <translation type="unfinished">alto</translation>
+        <translation>alto</translation>
     </message>
 </context>
 <context>
@@ -2471,31 +2479,31 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Rendered %1 pages</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 páginas renderizadas</translation>
     </message>
     <message>
         <source>Cancel report rendering</source>
-        <translation type="unfinished"></translation>
+        <translation>Cancelar renderizado del reporte</translation>
     </message>
     <message>
         <source>Lock selected items</source>
-        <translation type="unfinished"></translation>
+        <translation>Asegurar objetos seleccionados</translation>
     </message>
     <message>
         <source>Unlock selected items</source>
-        <translation type="unfinished"></translation>
+        <translation>Desbloquear objetos seleccionados</translation>
     </message>
     <message>
         <source>Select one level items</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccionar elementos de un nivel</translation>
     </message>
     <message>
         <source>Attention</source>
-        <translation type="unfinished">Atención</translation>
+        <translation>Atención</translation>
     </message>
     <message>
         <source>The rendering is in process</source>
-        <translation type="unfinished"></translation>
+        <translation>La renderización está en proceso</translation>
     </message>
 </context>
 <context>
@@ -2689,19 +2697,19 @@ Esta vista previa ya no es válida.</translation>
     <name>LimeReport::SVGItem</name>
     <message>
         <source>SVG Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Imagen SVG</translation>
     </message>
     <message>
         <source>SVG (*.svg)</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="unfinished">Editar</translation>
+        <translation>Editar</translation>
     </message>
     <message>
         <source>Watermark</source>
-        <translation type="unfinished">Marca de agua</translation>
+        <translation>Marca de agua</translation>
     </message>
 </context>
 <context>
@@ -2936,7 +2944,7 @@ Esta vista previa ya no es válida.</translation>
     </message>
     <message>
         <source>Report units</source>
-        <translation type="unfinished"></translation>
+        <translation>Unidades de reporte</translation>
     </message>
 </context>
 <context>
@@ -2957,7 +2965,7 @@ Esta vista previa ya no es válida.</translation>
     <name>LimeReport::SvgEditor</name>
     <message>
         <source>Select image file</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccionar archivo de imagen</translation>
     </message>
 </context>
 <context>
@@ -3366,43 +3374,43 @@ Esta vista previa ya no es válida.</translation>
     </message>
     <message>
         <source>SVG Item</source>
-        <translation type="unfinished"></translation>
+        <translation>Objeto SVG</translation>
     </message>
     <message>
         <source>image</source>
-        <translation type="unfinished">imagen</translation>
+        <translation>imagen</translation>
     </message>
     <message>
         <source>Dark</source>
-        <translation type="unfinished"></translation>
+        <translation>Oscuro</translation>
     </message>
     <message>
         <source>Light</source>
-        <translation type="unfinished"></translation>
+        <translation>Claro</translation>
     </message>
     <message>
         <source>Millimeters</source>
-        <translation type="unfinished"></translation>
+        <translation>Milimetros</translation>
     </message>
     <message>
         <source>Inches</source>
-        <translation type="unfinished"></translation>
+        <translation>Pulgadas</translation>
     </message>
     <message>
         <source>margin</source>
-        <translation type="unfinished">margen</translation>
+        <translation>margen</translation>
     </message>
     <message>
         <source>&apos;&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>series</source>
-        <translation type="unfinished">series</translation>
+        <translation>series</translation>
     </message>
     <message>
         <source>Series</source>
-        <translation type="unfinished"></translation>
+        <translation>Series</translation>
     </message>
 </context>
 </TS>
